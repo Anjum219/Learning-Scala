@@ -1,6 +1,6 @@
 # Learning-Scala
 In this repository, I will be adding the basics I learned from Scala and
-how we can replace basic code blocks by using Scala's own methods!
+how we can replace basic code blocks by using Scala's own methods.
 
 Let's begin with a [simple problem solving](https://github.com/Anjum219/Learning-Scala/blob/main/learn-from-naive.scala)!
 
